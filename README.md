@@ -7,5 +7,6 @@ Implement an 8-bit Binary-to-Gray code converter for the value applied to the in
 
 
 <div style="text-align: center;">
-    <img src="[calea/catre/imagine.png](https://github.com/user-attachments/assets/7a9ca8e6-257a-4974-84fb-d13cc14d54aa)" alt="Schema bloc a convertorului">
+    <img src="![Screenshot_114](https://github.com/user-attachments/assets/f0f59ef8-b60f-4096-a83b-3d89a7f524dc)" alt="Schema bloc a convertorului">
 </div>
+
