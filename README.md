@@ -31,3 +31,7 @@ The bitstream file created by the Vivado tool was tested using the BASYS 3 Artix
 ## Description of the BASYS 3 development system
 
 The BASYS 3 development board is a complete, ready-to-use development circuit based on the latest Artix-7 Field Programmable Gate Arrays (FPGAs) produced by Xilinx. With a large FPGA capacity and a collection of USB, VGA, and other ports, the BASYS 3 development board allows for the design of a wide variety of projects, from introductory combinational circuits to complex sequential circuits such as processors and embedded controllers.
+
+## Development board images
+![20230118_175744](https://github.com/user-attachments/assets/94306aa5-82e1-4e56-add6-3bfaaf1d762f)
+![20230118_175741](https://github.com/user-attachments/assets/d197bc75-57e3-4fb2-b266-4e5f5fee4cc5)
