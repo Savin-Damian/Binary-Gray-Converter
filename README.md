@@ -16,3 +16,14 @@ Implement an 8-bit Binary-to-Gray code converter for the value applied to the in
 - Any numbers up to 8 bits can be entered.
 - The input signals, representing numbers in binary code, are converted to output signals representing numbers in Gray code.
 - In the output port C, signals representing numbers in Gray code are displayed through the LEDs on the development board.
+
+## Implementation Method
+To implement this module, the Vivado synthesis tool and VHDL language were used.
+
+- The entity Converter was designed.
+- In this, an input variable was declared, representing the number in binary code, and an output variable, representing the number transformed into Gray code.
+- The conversion algorithm was created using the following method:
+    - The most significant bit of the Gray code is equal to the most significant bit of the binary code.
+    - The other bits of the Gray code are obtained by the XOR operation between the bit from the binary code at index i and the bit at index i-1 from the binary code.
+
+The bitstream file created by the Vivado tool was tested using the BASYS 3 Artix-7 xc7a35tcpg236-1 development board.
