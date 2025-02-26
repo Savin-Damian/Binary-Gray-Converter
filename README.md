@@ -27,3 +27,7 @@ To implement this module, the Vivado synthesis tool and VHDL language were used.
     - The other bits of the Gray code are obtained by the XOR operation between the bit from the binary code at index i and the bit at index i-1 from the binary code.
 
 The bitstream file created by the Vivado tool was tested using the BASYS 3 Artix-7 xc7a35tcpg236-1 development board.
+
+## Description of the BASYS 3 development system
+
+The BASYS 3 development board is a complete, ready-to-use development circuit based on the latest Artix-7 Field Programmable Gate Arrays (FPGAs) produced by Xilinx. With a large FPGA capacity and a collection of USB, VGA, and other ports, the BASYS 3 development board allows for the design of a wide variety of projects, from introductory combinational circuits to complex sequential circuits such as processors and embedded controllers.
