@@ -10,3 +10,9 @@ Implement an 8-bit Binary-to-Gray code converter for the value applied to the in
 </p>
 
 
+## Features
+- The Gray code is a reflected binary code, which has the property that two adjacent numbers differ by the value of a single bit.
+- In the input port A, signals representing numbers in binary code are introduced.
+- Any numbers up to 8 bits can be entered.
+- The input signals, representing numbers in binary code, are converted to output signals representing numbers in Gray code.
+- In the output port C, signals representing numbers in Gray code are displayed through the LEDs on the development board.
