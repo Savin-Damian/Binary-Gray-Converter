@@ -6,7 +6,7 @@ Implement an 8-bit Binary-to-Gray code converter for the value applied to the in
 
 <p align ="center">
     <img src="https://github.com/user-attachments/assets/f0f59ef8-b60f-4096-a83b-3d89a7f524dc" alt="Block diagram of the converter">
-    <p>Block diagram of the converter</p> 
+    <p align ="center">Block diagram of the converter</p> 
 </p>
 
 
